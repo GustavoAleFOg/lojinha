@@ -8,8 +8,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "live-server": "^1.2.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoAleFOg/lojinha.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GustavoAleFOg/lojinha/issues"
+  },
+  "homepage": "https://github.com/GustavoAleFOg/lojinha#readme",
+  "description": ""
 }
